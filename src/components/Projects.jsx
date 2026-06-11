@@ -11,7 +11,7 @@ export default function Projects() {
 
   return (
     <Section id="projects" title={ui.projects.title} subtitle={ui.projects.subtitle}>
-      <div className="grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="stagger grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
         {sorted.map((project) => (
           <ProjectCard key={project.id} project={project} />
         ))}

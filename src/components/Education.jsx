@@ -13,7 +13,7 @@ export default function Education() {
       subtitle={ui.education.subtitle}
       className="bg-slate-50 dark:bg-slate-900/40"
     >
-      <div className="mx-auto grid max-w-4xl gap-5 sm:grid-cols-2">
+      <div className="stagger mx-auto grid max-w-4xl gap-5 sm:grid-cols-2">
         {education.map((edu) => (
           <div
             key={edu.id}

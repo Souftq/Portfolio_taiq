@@ -7,8 +7,8 @@ export const education = [
   {
     id: 1,
     degree: {
-      fr: "Cycle d'ingénieur en informatique (en alternance)",
-      en: 'Engineering degree in Computer Science (apprenticeship)',
+      fr: "Cycle d'ingénieur en informatique ",
+      en: 'Engineering degree in Computer Science ',
     },
     school: 'ENSIM — École Nationale Supérieure d\'Ingénieurs du Mans',
     period: '2025 — 2026',

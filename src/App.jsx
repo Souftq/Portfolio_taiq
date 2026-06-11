@@ -7,6 +7,7 @@ import Projects from './components/Projects.jsx'
 import Education from './components/Education.jsx'
 import Contact from './components/Contact.jsx'
 import Footer from './components/Footer.jsx'
+import BackToTop from './components/BackToTop.jsx'
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <BackToTop />
     </>
   )
 }
