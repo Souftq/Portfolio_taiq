@@ -26,11 +26,11 @@ export default function Hero() {
             {ui.hero.greeting} 👋
           </p>
 
-          <h1 className="text-4xl font-extrabold leading-tight tracking-tight sm:text-6xl">
+          <h1 className="animated-gradient-text text-4xl font-extrabold leading-tight tracking-tight sm:text-6xl">
             {profile.name}
           </h1>
 
-          <h2 className="mt-3 bg-gradient-to-r from-brand-600 to-brand-400 bg-clip-text text-2xl font-bold text-transparent sm:text-3xl">
+          <h2 className="mt-3 text-2xl font-bold text-slate-700 sm:text-3xl dark:text-slate-200">
             {t(profile.role)}
           </h2>
 

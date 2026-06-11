@@ -34,6 +34,7 @@ export const ui = {
       code: 'Code',
       demo: 'Démo',
       featured: 'En vedette',
+      filterAll: 'Tous',
     },
     education: {
       title: 'Formation',
@@ -82,6 +83,7 @@ export const ui = {
       code: 'Code',
       demo: 'Demo',
       featured: 'Featured',
+      filterAll: 'All',
     },
     education: {
       title: 'Education',
