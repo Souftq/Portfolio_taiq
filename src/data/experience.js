@@ -1,7 +1,4 @@
-// =============================================================
-//  EXPÉRIENCES PROFESSIONNELLES  /  WORK EXPERIENCE
-//  👉 Du plus récent au plus ancien.
-// =============================================================
+
 
 export const experience = [
   {

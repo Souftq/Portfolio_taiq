@@ -1,7 +1,6 @@
 import { useEffect, useRef } from 'react'
 
-// Ajoute la classe .is-visible quand l'élément entre dans le viewport
-// (utilisé avec la classe .reveal définie dans index.css)
+
 export function useReveal() {
   const ref = useRef(null)
 

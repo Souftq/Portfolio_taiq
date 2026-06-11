@@ -1,5 +1,4 @@
-// Textes fixes de l'interface (boutons, titres de sections, navigation)
-// dans les deux langues. Modifie-les si tu veux.
+
 
 export const ui = {
   fr: {

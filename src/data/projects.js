@@ -1,21 +1,4 @@
-// =============================================================
-//  TES PROJETS RÉALISÉS  /  YOUR COMPLETED PROJECTS
-//  👉 Duplique un bloc { ... } pour ajouter un projet.
-//     - title / description : versions fr + en
-//     - tags    : technologies utilisées
-//     - video   : (optionnel) une vidéo de démo MP4 muette qui sera
-//                 lue en boucle sur la carte. Ex: '/projects/oculus.mp4'.
-//                 Omets la ligne si tu n'as pas de vidéo.
-//     - images  : liste de captures d'écran (galerie). Place les
-//                 fichiers dans  public/projects/  et indique le
-//                 chemin "/projects/mon-image.png". Laisse []  si
-//                 aucune image (un dégradé s'affiche alors).
-//                 La 1re image sert de couverture ; un clic ouvre
-//                 la galerie plein écran.
-//     - github  : lien du dépôt   (laisse '' pour masquer)
-//     - demo    : lien démo live   (laisse '' pour masquer)
-//     - featured: true => mis en avant
-// =============================================================
+
 
 export const projects = [
   {
