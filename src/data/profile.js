@@ -15,7 +15,7 @@ export const profile = {
     github: 'https://github.com/Souftq',
     linkedin: 'https://www.linkedin.com/in/soufiane-taiq-7b4162372', 
     twitter: '',
-    website: '',
+    website: 'https://portfolio-taiq.vercel.app',
   },
 
   resumeUrl: '/TaiqCV.pdf',
